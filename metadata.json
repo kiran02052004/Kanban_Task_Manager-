@@ -1,0 +1,5 @@
+{
+  "name": "Kanban Task Manager",
+  "description": "A drag-and-drop Kanban board for task management with local storage persistence.",
+  "requestFramePermissions": []
+}
